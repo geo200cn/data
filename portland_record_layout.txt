@@ -1,0 +1,42 @@
+--------------------------------------------------------------------------------
+Codebook for Assignment 3 data file portland_city_tracts.shp
+--------------------------------------------------------------------------------
+ 
+Airbnb data were downloaded from the Airbnb public data site.
+Location of Portland Light Rail stops were downloaded from the Portland City
+open data portal. 
+Median housing value and median gross rent were downloaded from the 2007-2011
+and 2012-2016 American Community Survey.
+All other data were downloaded from the 2012-2016 American Community Survey .
+Units of observations: Census tracts in 2010 boundaries.
+
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+GEOID: Census Tract ID
+
+logabnb: Log monthly (December 2017 to December 2018) number of Airbnb listings per 
+	1,000 housing units 
+
+lhvalch: Change in log median housing value from 2011 to 2016
+
+lrentch: Change in log median gross rent from 2011 to 2016
+
+pwht: Percent non-Hispanic white
+
+pund18: Percent of residents that are under 18 years old
+
+pmov: Percent of households that moved in the past year
+
+ppov: Percent poverty
+
+ltrans: Log distance to nearest public rail transit stop in meters
+
+pvacant: Percent of vacant housing units   
+
+pnewunits: Percent of housing units that were built in 2000 or later 
+
+lmhval: Log median housing value, 2016    
+
+lrent: Log median gross rent, 2016
