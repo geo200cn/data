@@ -1,0 +1,42 @@
+--------------------------------------------------------------------------------
+Record layout for data file zctanyccovid.csv
+--------------------------------------------------------------------------------
+ 
+All demographic data were downloaded from the 2014-18 American Community Survey
+COVID-19 case counts were downloaded from USAFACTS
+https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/?utm_source=MailChimp&utm_campaign=census-covid2
+Units of observations: New York City Zip codes
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+GEOID: Census Tract ID
+
+totp: Total population 
+
+medincome: Median household income    
+
+pmale: Percent male
+
+pwhite: Percent white  
+
+pblk: Percent black
+
+pasn: Percent Asian
+ 
+phisp: Percent Hispanic
+
+poor: Percent of residents living in poverty
+
+punemp: Percent of the civilian labor force that is unemployed
+
+pcol: Percent of 25+ year olds with a bachelors degree
+
+p65old: Percent 65+ year olds
+
+cases: COVID-19 cases
+
+covidrate: COVID-19 cases per 1,000 residents
+
+borough: NYC borough
