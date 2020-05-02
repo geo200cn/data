@@ -3,8 +3,8 @@ Record layout for data file zctanyccovid.csv
 --------------------------------------------------------------------------------
  
 All demographic data were downloaded from the 2014-18 American Community Survey
-COVID-19 case counts were downloaded from USAFACTS
-https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/?utm_source=MailChimp&utm_campaign=census-covid2
+COVID-19 case counts were downloaded from New York City Health Department
+https://github.com/nychealth/coronavirus-data/
 Units of observations: New York City Zip codes
  
 --------------------------------------------------------------------------------
