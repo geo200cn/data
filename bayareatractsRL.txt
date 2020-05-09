@@ -1,0 +1,26 @@
+--------------------------------------------------------------------------------
+Record layout for data file bayareatracts.shp
+--------------------------------------------------------------------------------
+ 
+All demographic data were downloaded from the 2013-17 American Community Survey
+Park data were downloaded from PolicyMap
+Standardized test data were downloaded from the California of Department of 
+Education
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+GEOID: 		Census Tract ID
+lmedhval: 	Log median housing value  
+ltotp: 		Log total population 
+lmedinc: 	Log median household income
+medage:		Median age of housing 
+medrooms:	Median number of rooms
+meddur: 	The median number of years current residents have been residing in their 		houses 
+parks:		The number of parks within a 10 minute walk  
+edppl13:	The percent of 4th graders attending the nearest school who scored 			proficient and above on the California's English Language Arts 				standardized test
+pwhite:		Percent non-Hispanic white
+pblk:		Percent non-Hispanic black
+pasn:		Percent non-Hispanic Asian
+phisp:		Percent Hispanic
