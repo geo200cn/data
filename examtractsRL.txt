@@ -1,0 +1,22 @@
+--------------------------------------------------------------------------------
+Record layout for midterm exam shape file
+--------------------------------------------------------------------------------
+ 
+Data were downloaded from the 2014-18 American Community Survey,
+the Centers for Disease Control and Prevention, and the city's department of 
+public health.
+Units of observations: Zip codes
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+GEOID: 		Census Tract ID
+covidrate:	COVID-19 cases per 1,000 residents 
+totp: 		Total population 
+popd:		Population density (residents per square mile)
+p65old:		Percent of residents 65 older
+asth: 		Percent of adults reporting to have asthma
+diab: 		Percent of adults ever diagnosed with diabetes
+
+
