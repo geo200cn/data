@@ -11,7 +11,7 @@ Units of observations: Zip codes
 Data Dictionary
 --------------------------------------------------------------------------------
  
-GEOID: 		Census Tract ID
+GEOID: 		Zip code ID
 covidrate:	COVID-19 cases per 1,000 residents 
 totp: 		Total population 
 popd:		Population density (residents per square mile)
