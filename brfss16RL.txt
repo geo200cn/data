@@ -1,0 +1,35 @@
+--------------------------------------------------------------------------------
+Record layout for brfss16.csv
+--------------------------------------------------------------------------------
+ 
+Data were downloaded from the 2016 Behavioral Risk Factor Surveillance 
+System (BRFSS)
+Units of observations: Adults aged 18 years or older
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+badhealth: indicator of whether the respondent reported “yes” to the question: 
+“In general, would you say that in general your health is Fair/Poor?”
+ 
+bmi: Body Mass Index 
+      
+agec: Age category- 0-24, 25-39, 40-59, 60-79, 80-99
+      
+race_eth: hispanic, nh black, nh multirace, nh other, nh white
+  
+marst: cohab, divorced, married, never married, separated, widowed     
+
+educ: Primary only, some high school, high school grad, some college, college grad
+      
+smoke: Current smoker, former smoker, never smoked
+     
+ins: Has health insurance (1), No health insurance (0)
+       
+employ: Currently employed, not in labor force, retired, unable to work
+   
+inc: 1=Less than $15,000, 2=$15,000 to less than $25,000, 3=$25,000 to less than 
+$35,000, 4=$35,000 to less than $50,000, 5=$50,000 or more
+       
+male: Male, Female
