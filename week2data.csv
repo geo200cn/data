@@ -1,291 +1,59 @@
-GEOID,NAME,variable,estimate
-06001,"Alameda County, California",tpopr,1629615
-06001,"Alameda County, California",nhwhite,524881
-06001,"Alameda County, California",nhblk,175063
-06001,"Alameda County, California",nhasn,468356
-06001,"Alameda County, California",hisp,367041
-06003,"Alpine County, California",tpopr,1203
-06003,"Alpine County, California",nhwhite,777
-06003,"Alpine County, California",nhblk,18
-06003,"Alpine County, California",nhasn,8
-06003,"Alpine County, California",hisp,117
-06005,"Amador County, California",tpopr,37306
-06005,"Amador County, California",nhwhite,29571
-06005,"Amador County, California",nhblk,764
-06005,"Amador County, California",nhasn,565
-06005,"Amador County, California",hisp,4943
-06007,"Butte County, California",tpopr,225207
-06007,"Butte County, California",nhwhite,164184
-06007,"Butte County, California",nhblk,3282
-06007,"Butte County, California",nhasn,9852
-06007,"Butte County, California",hisp,35445
-06009,"Calaveras County, California",tpopr,45057
-06009,"Calaveras County, California",nhwhite,36932
-06009,"Calaveras County, California",nhblk,258
-06009,"Calaveras County, California",nhasn,527
-06009,"Calaveras County, California",hisp,5166
-06011,"Colusa County, California",tpopr,21479
-06011,"Colusa County, California",nhwhite,7800
-06011,"Colusa County, California",nhblk,186
-06011,"Colusa County, California",nhasn,328
-06011,"Colusa County, California",hisp,12539
-06013,"Contra Costa County, California",tpopr,1123678
-06013,"Contra Costa County, California",nhwhite,504818
-06013,"Contra Costa County, California",nhblk,93140
-06013,"Contra Costa County, California",nhasn,177544
-06013,"Contra Costa County, California",hisp,284003
-06015,"Del Norte County, California",tpopr,27442
-06015,"Del Norte County, California",nhwhite,17233
-06015,"Del Norte County, California",nhblk,484
-06015,"Del Norte County, California",nhasn,741
-06015,"Del Norte County, California",hisp,5281
-06017,"El Dorado County, California",tpopr,185015
-06017,"El Dorado County, California",nhwhite,145153
-06017,"El Dorado County, California",nhblk,1614
-06017,"El Dorado County, California",nhasn,7805
-06017,"El Dorado County, California",hisp,23279
-06019,"Fresno County, California",tpopr,971616
-06019,"Fresno County, California",nhwhite,293677
-06019,"Fresno County, California",nhblk,45217
-06019,"Fresno County, California",nhasn,96128
-06019,"Fresno County, California",hisp,509442
-06021,"Glenn County, California",tpopr,27935
-06021,"Glenn County, California",nhwhite,14663
-06021,"Glenn County, California",nhblk,212
-06021,"Glenn County, California",nhasn,729
-06021,"Glenn County, California",hisp,11407
-06023,"Humboldt County, California",tpopr,135490
-06023,"Humboldt County, California",nhwhite,101460
-06023,"Humboldt County, California",nhblk,1389
-06023,"Humboldt County, California",nhasn,3886
-06023,"Humboldt County, California",hisp,14986
-06025,"Imperial County, California",tpopr,179957
-06025,"Imperial County, California",nhwhite,20372
-06025,"Imperial County, California",nhblk,4109
-06025,"Imperial County, California",nhasn,2263
-06025,"Imperial County, California",hisp,150108
-06027,"Inyo County, California",tpopr,18195
-06027,"Inyo County, California",nhwhite,11557
-06027,"Inyo County, California",nhblk,172
-06027,"Inyo County, California",nhasn,270
-06027,"Inyo County, California",hisp,3894
-06029,"Kern County, California",tpopr,878744
-06029,"Kern County, California",nhwhite,310638
-06029,"Kern County, California",nhblk,45024
-06029,"Kern County, California",nhasn,39808
-06029,"Kern County, California",hisp,458907
-06031,"Kings County, California",tpopr,150183
-06031,"Kings County, California",nhwhite,49728
-06031,"Kings County, California",nhblk,8916
-06031,"Kings County, California",nhasn,5463
-06031,"Kings County, California",hisp,80715
-06033,"Lake County, California",tpopr,64095
-06033,"Lake County, California",nhwhite,45957
-06033,"Lake County, California",nhblk,1362
-06033,"Lake County, California",nhasn,920
-06033,"Lake County, California",hisp,12445
-06035,"Lassen County, California",tpopr,31470
-06035,"Lassen County, California",nhwhite,20812
-06035,"Lassen County, California",nhblk,2708
-06035,"Lassen County, California",nhasn,462
-06035,"Lassen County, California",hisp,5829
-06037,"Los Angeles County, California",tpopr,10105722
-06037,"Los Angeles County, California",nhwhite,2676982
-06037,"Los Angeles County, California",nhblk,799579
-06037,"Los Angeles County, California",nhasn,1442577
-06037,"Los Angeles County, California",hisp,4893579
-06039,"Madera County, California",tpopr,154440
-06039,"Madera County, California",nhwhite,54145
-06039,"Madera County, California",nhblk,4753
-06039,"Madera County, California",nhasn,3035
-06039,"Madera County, California",hisp,87852
-06041,"Marin County, California",tpopr,260814
-06041,"Marin County, California",nhwhite,186382
-06041,"Marin County, California",nhblk,5463
-06041,"Marin County, California",nhasn,14754
-06041,"Marin County, California",hisp,41391
-06043,"Mariposa County, California",tpopr,17658
-06043,"Mariposa County, California",nhwhite,14309
-06043,"Mariposa County, California",nhblk,215
-06043,"Mariposa County, California",nhasn,168
-06043,"Mariposa County, California",hisp,1870
-06045,"Mendocino County, California",tpopr,87497
-06045,"Mendocino County, California",nhwhite,57682
-06045,"Mendocino County, California",nhblk,560
-06045,"Mendocino County, California",nhasn,1495
-06045,"Mendocino County, California",hisp,21402
-06047,"Merced County, California",tpopr,267390
-06047,"Merced County, California",nhwhite,77092
-06047,"Merced County, California",nhblk,8007
-06047,"Merced County, California",nhasn,19593
-06047,"Merced County, California",hisp,155650
-06049,"Modoc County, California",tpopr,9017
-06049,"Modoc County, California",nhwhite,7035
-06049,"Modoc County, California",nhblk,65
-06049,"Modoc County, California",nhasn,96
-06049,"Modoc County, California",hisp,1317
-06051,"Mono County, California",tpopr,14058
-06051,"Mono County, California",nhwhite,9288
-06051,"Mono County, California",nhblk,53
-06051,"Mono County, California",nhasn,278
-06051,"Mono County, California",hisp,3815
-06053,"Monterey County, California",tpopr,433168
-06053,"Monterey County, California",nhwhite,132600
-06053,"Monterey County, California",nhblk,10621
-06053,"Monterey County, California",nhasn,24213
-06053,"Monterey County, California",hisp,250913
-06055,"Napa County, California",tpopr,141005
-06055,"Napa County, California",nhwhite,75010
-06055,"Napa County, California",nhblk,2877
-06055,"Napa County, California",nhasn,10940
-06055,"Napa County, California",hisp,47547
-06057,"Nevada County, California",tpopr,98838
-06057,"Nevada County, California",nhwhite,84389
-06057,"Nevada County, California",nhblk,541
-06057,"Nevada County, California",nhasn,1090
-06057,"Nevada County, California",hisp,9109
-06059,"Orange County, California",tpopr,3155816
-06059,"Orange County, California",nhwhite,1306398
-06059,"Orange County, California",nhblk,49560
-06059,"Orange County, California",nhasn,615659
-06059,"Orange County, California",hisp,1079172
-06061,"Placer County, California",tpopr,374985
-06061,"Placer County, California",nhwhite,276754
-06061,"Placer County, California",nhblk,5399
-06061,"Placer County, California",nhasn,25568
-06061,"Placer County, California",hisp,51131
-06063,"Plumas County, California",tpopr,18724
-06063,"Plumas County, California",nhwhite,15640
-06063,"Plumas County, California",nhblk,160
-06063,"Plumas County, California",nhasn,148
-06063,"Plumas County, California",hisp,1599
-06065,"Riverside County, California",tpopr,2355002
-06065,"Riverside County, California",nhwhite,861271
-06065,"Riverside County, California",nhblk,140810
-06065,"Riverside County, California",nhasn,143855
-06065,"Riverside County, California",hisp,1130033
-06067,"Sacramento County, California",tpopr,1495400
-06067,"Sacramento County, California",nhwhite,684141
-06067,"Sacramento County, California",nhblk,142416
-06067,"Sacramento County, California",nhasn,225851
-06067,"Sacramento County, California",hisp,340656
-06069,"San Benito County, California",tpopr,58671
-06069,"San Benito County, California",nhwhite,20872
-06069,"San Benito County, California",nhblk,437
-06069,"San Benito County, California",nhasn,1564
-06069,"San Benito County, California",hisp,34561
-06071,"San Bernardino County, California",tpopr,2121220
-06071,"San Bernardino County, California",nhwhite,632557
-06071,"San Bernardino County, California",nhblk,168985
-06071,"San Bernardino County, California",nhasn,142802
-06071,"San Bernardino County, California",hisp,1108996
-06073,"San Diego County, California",tpopr,3283665
-06073,"San Diego County, California",nhwhite,1517153
-06073,"San Diego County, California",nhblk,154599
-06073,"San Diego County, California",nhasn,376669
-06073,"San Diego County, California",hisp,1095458
-06075,"San Francisco County, California",tpopr,864263
-06075,"San Francisco County, California",nhwhite,353000
-06075,"San Francisco County, California",nhblk,43961
-06075,"San Francisco County, California",nhasn,292694
-06075,"San Francisco County, California",hisp,131949
-06077,"San Joaquin County, California",tpopr,724153
-06077,"San Joaquin County, California",nhwhite,240170
-06077,"San Joaquin County, California",nhblk,48175
-06077,"San Joaquin County, California",nhasn,106817
-06077,"San Joaquin County, California",hisp,295606
-06079,"San Luis Obispo County, California",tpopr,280119
-06079,"San Luis Obispo County, California",nhwhite,194355
-06079,"San Luis Obispo County, California",nhblk,4958
-06079,"San Luis Obispo County, California",nhasn,9998
-06079,"San Luis Obispo County, California",hisp,62174
-06081,"San Mateo County, California",tpopr,763450
-06081,"San Mateo County, California",nhwhite,304751
-06081,"San Mateo County, California",nhblk,17457
-06081,"San Mateo County, California",nhasn,207572
-06081,"San Mateo County, California",hisp,190045
-06083,"Santa Barbara County, California",tpopr,442996
-06083,"Santa Barbara County, California",nhwhite,200723
-06083,"Santa Barbara County, California",nhblk,7469
-06083,"Santa Barbara County, California",nhasn,23003
-06083,"Santa Barbara County, California",hisp,198556
-06085,"Santa Clara County, California",tpopr,1911226
-06085,"Santa Clara County, California",nhwhite,622266
-06085,"Santa Clara County, California",nhblk,45479
-06085,"Santa Clara County, California",nhasn,667561
-06085,"Santa Clara County, California",hisp,498253
-06087,"Santa Cruz County, California",tpopr,273263
-06087,"Santa Cruz County, California",nhwhite,157988
-06087,"Santa Cruz County, California",nhblk,2204
-06087,"Santa Cruz County, California",nhasn,12022
-06087,"Santa Cruz County, California",hisp,91096
-06089,"Shasta County, California",tpopr,178919
-06089,"Shasta County, California",nhwhite,143919
-06089,"Shasta County, California",nhblk,1951
-06089,"Shasta County, California",nhasn,5195
-06089,"Shasta County, California",hisp,17218
-06091,"Sierra County, California",tpopr,2885
-06091,"Sierra County, California",nhwhite,2509
-06091,"Sierra County, California",nhblk,4
-06091,"Sierra County, California",nhasn,0
-06091,"Sierra County, California",hisp,290
-06093,"Siskiyou County, California",tpopr,43530
-06093,"Siskiyou County, California",nhwhite,33587
-06093,"Siskiyou County, California",nhblk,669
-06093,"Siskiyou County, California",nhasn,686
-06093,"Siskiyou County, California",hisp,5218
-06095,"Solano County, California",tpopr,434981
-06095,"Solano County, California",nhwhite,169436
-06095,"Solano County, California",nhblk,59862
-06095,"Solano County, California",nhasn,64546
-06095,"Solano County, California",hisp,112098
-06097,"Sonoma County, California",tpopr,500943
-06097,"Sonoma County, California",nhwhite,319805
-06097,"Sonoma County, California",nhblk,6972
-06097,"Sonoma County, California",nhasn,19321
-06097,"Sonoma County, California",hisp,132018
-06099,"Stanislaus County, California",tpopr,535684
-06099,"Stanislaus County, California",nhwhite,232230
-06099,"Stanislaus County, California",nhblk,13607
-06099,"Stanislaus County, California",nhasn,28680
-06099,"Stanislaus County, California",hisp,240816
-06101,"Sutter County, California",tpopr,95583
-06101,"Sutter County, California",nhwhite,45239
-06101,"Sutter County, California",nhblk,1768
-06101,"Sutter County, California",nhasn,14467
-06101,"Sutter County, California",hisp,28910
-06103,"Tehama County, California",tpopr,63247
-06103,"Tehama County, California",nhwhite,43779
-06103,"Tehama County, California",nhblk,376
-06103,"Tehama County, California",nhasn,907
-06103,"Tehama County, California",hisp,15316
-06105,"Trinity County, California",tpopr,13037
-06105,"Trinity County, California",nhwhite,10796
-06105,"Trinity County, California",nhblk,104
-06105,"Trinity County, California",nhasn,141
-06105,"Trinity County, California",hisp,937
-06107,"Tulare County, California",tpopr,458809
-06107,"Tulare County, California",nhwhite,135372
-06107,"Tulare County, California",nhblk,5973
-06107,"Tulare County, California",nhasn,14622
-06107,"Tulare County, California",hisp,291867
-06109,"Tuolumne County, California",tpopr,53899
-06109,"Tuolumne County, California",nhwhite,43565
-06109,"Tuolumne County, California",nhblk,924
-06109,"Tuolumne County, California",nhasn,593
-06109,"Tuolumne County, California",hisp,6385
-06111,"Ventura County, California",tpopr,847834
-06111,"Ventura County, California",nhwhite,391128
-06111,"Ventura County, California",nhblk,13416
-06111,"Ventura County, California",nhasn,59513
-06111,"Ventura County, California",hisp,358244
-06113,"Yolo County, California",tpopr,212605
-06113,"Yolo County, California",nhwhite,101045
-06113,"Yolo County, California",nhblk,4705
-06113,"Yolo County, California",nhasn,28880
-06113,"Yolo County, California",hisp,66787
-06115,"Yuba County, California",tpopr,74644
-06115,"Yuba County, California",nhwhite,42018
-06115,"Yuba County, California",nhblk,2407
-06115,"Yuba County, California",nhasn,4700
-06115,"Yuba County, California",hisp,20479
+GEOID,NAME,hisp,nhasn,nhblk,nhwhite,tpopr
+06001,"Alameda County, California",367041,468356,175063,524881,1629615
+06003,"Alpine County, California",117,8,18,777,1203
+06005,"Amador County, California",4943,565,764,29571,37306
+06007,"Butte County, California",35445,9852,3282,164184,225207
+06009,"Calaveras County, California",5166,527,258,36932,45057
+06011,"Colusa County, California",12539,328,186,7800,21479
+06013,"Contra Costa County, California",284003,177544,93140,504818,1123678
+06015,"Del Norte County, California",5281,741,484,17233,27442
+06017,"El Dorado County, California",23279,7805,1614,145153,185015
+06019,"Fresno County, California",509442,96128,45217,293677,971616
+06021,"Glenn County, California",11407,729,212,14663,27935
+06023,"Humboldt County, California",14986,3886,1389,101460,135490
+06025,"Imperial County, California",150108,2263,4109,20372,179957
+06027,"Inyo County, California",3894,270,172,11557,18195
+06029,"Kern County, California",458907,39808,45024,310638,878744
+06031,"Kings County, California",80715,5463,8916,49728,150183
+06033,"Lake County, California",12445,920,1362,45957,64095
+06035,"Lassen County, California",5829,462,2708,20812,31470
+06037,"Los Angeles County, California",4893579,1442577,799579,2676982,10105722
+06039,"Madera County, California",87852,3035,4753,54145,154440
+06041,"Marin County, California",41391,14754,5463,186382,260814
+06043,"Mariposa County, California",1870,168,215,14309,17658
+06045,"Mendocino County, California",21402,1495,560,57682,87497
+06047,"Merced County, California",155650,19593,8007,77092,267390
+06049,"Modoc County, California",1317,96,65,7035,9017
+06051,"Mono County, California",3815,278,53,9288,14058
+06053,"Monterey County, California",250913,24213,10621,132600,433168
+06055,"Napa County, California",47547,10940,2877,75010,141005
+06057,"Nevada County, California",9109,1090,541,84389,98838
+06059,"Orange County, California",1079172,615659,49560,1306398,3155816
+06061,"Placer County, California",51131,25568,5399,276754,374985
+06063,"Plumas County, California",1599,148,160,15640,18724
+06065,"Riverside County, California",1130033,143855,140810,861271,2355002
+06067,"Sacramento County, California",340656,225851,142416,684141,1495400
+06069,"San Benito County, California",34561,1564,437,20872,58671
+06071,"San Bernardino County, California",1108996,142802,168985,632557,2121220
+06073,"San Diego County, California",1095458,376669,154599,1517153,3283665
+06075,"San Francisco County, California",131949,292694,43961,353000,864263
+06077,"San Joaquin County, California",295606,106817,48175,240170,724153
+06079,"San Luis Obispo County, California",62174,9998,4958,194355,280119
+06081,"San Mateo County, California",190045,207572,17457,304751,763450
+06083,"Santa Barbara County, California",198556,23003,7469,200723,442996
+06085,"Santa Clara County, California",498253,667561,45479,622266,1911226
+06087,"Santa Cruz County, California",91096,12022,2204,157988,273263
+06089,"Shasta County, California",17218,5195,1951,143919,178919
+06091,"Sierra County, California",290,0,4,2509,2885
+06093,"Siskiyou County, California",5218,686,669,33587,43530
+06095,"Solano County, California",112098,64546,59862,169436,434981
+06097,"Sonoma County, California",132018,19321,6972,319805,500943
+06099,"Stanislaus County, California",240816,28680,13607,232230,535684
+06101,"Sutter County, California",28910,14467,1768,45239,95583
+06103,"Tehama County, California",15316,907,376,43779,63247
+06105,"Trinity County, California",937,141,104,10796,13037
+06107,"Tulare County, California",291867,14622,5973,135372,458809
+06109,"Tuolumne County, California",6385,593,924,43565,53899
+06111,"Ventura County, California",358244,59513,13416,391128,847834
+06113,"Yolo County, California",66787,28880,4705,101045,212605
+06115,"Yuba County, California",20479,4700,2407,42018,74644
