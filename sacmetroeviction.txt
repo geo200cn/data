@@ -26,7 +26,7 @@ pasn: Percent Asian
  
 phisp: Percent Hispanic
 
-ppov: Percent of residents living in poverty
+poor: Value of Poor if percent of residents living in poverty > 30%
 
 punemp: Percent of the civilian labor force that is unemployed
 
