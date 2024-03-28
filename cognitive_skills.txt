@@ -1,0 +1,14 @@
+The following thinking skills are based off of Bloom’s revised taxonomy
+
+Acquiring: The process of gathering and storing bits of information
+Remembering: The process of drawing upon past experiences for present or future applications
+Applying: The process of making information usable
+Understanding: The process of comprehending information
+Expanding: The process of increasing the size, volume or scope of information
+Analyzing: The process of closely examining information to draw out the essential elements
+Integrating: The process of bringing together parts into a whole
+Synthesizing: The process of merging ideas into a unified entity
+Interpreting: The process of providing subjective meaning to information
+Evaluating: The process of weighing information to make a determination	
+Trimming: The process of removing things deemed unnecessary
+Creating: The process of bringing something new into existence
