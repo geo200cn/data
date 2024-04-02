@@ -30,7 +30,11 @@ poor: Value of Poor if percent of residents living in poverty > 30%
 
 punemp: Percent of the civilian labor force that is unemployed
 
-prent: Percent of households who rent
+rent: Median gross rent
+
+medage: Median age of housing (Current year - Year it was built)
+
+vacancy: Housing vacancy rate
 
 pburden: Percent of all renters who are severely cost burdened
 
